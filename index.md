@@ -193,7 +193,7 @@
 
 				<div class="row row-bottom-padded-md">
 					<div class="col-md-12 text-center animate-box">
-						<p><img src="images/cover_bg_1.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive"></p>
+						<p><img src="images/cover_bg_2.jpg" alt="Restaurant" class="img-responsive"></p>
 					</div>
 					<!-- <div class="col-md-6 text-center animate-box">
 						<p><img src="images/cover_bg_2.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive"></p>
@@ -297,8 +297,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-						<h3>Нашите</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit est facilis maiores, perspiciatis accusamus asperiores sint consequuntur debitis.</p>
+						<h3>Те вече ги подкрепиха</h3>
+						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit est facilis maiores, perspiciatis accusamus asperiores sint consequuntur debitis.</p> -->
 					</div>
 				</div>
 			</div>
@@ -354,46 +354,46 @@
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-md-4 col-sm-4">
-						<div class="services animate-box">
+						<a href='#'><div class="services animate-box">
 							<span><i class="icon-heart"></i></span>
 							<h3>Hlebar</h3>
 							<p>ул. Иван Шишман / ул. Оборище</p>
-						</div>
+						</div></a>
 					</div>
 					<div class="col-md-4 col-sm-4">
-						<div class="services animate-box">
+						<a href='#'><div class="services animate-box">
 							<span><i class="icon-heart"></i></span>
 							<h3>La Bottega</h3>
 							<p>ул. Иван Шишман</p>
 						</div>
-					</div>
+					</div></a>
 					<div class="col-md-4 col-sm-4">
-						<div class="services animate-box">
+						<a href='#'><div class="services animate-box">
 							<span><i class="icon-heart"></i></span>
 							<h3>The Little Things</h3>
 							<p>ул. Иван Шишман</p>
-						</div>
+						</div></a>
 					</div>
 					<div class="col-md-4 col-sm-4">
-						<div class="services animate-box">
+						<a href='#'><div class="services animate-box">
 							<span><i class="icon-heart"></i></span>
 							<h3>Rolling Dogs</h3>
 							<p>ул. Иван Шишман</p>
-						</div>
+						</div></a>
 					</div>
 					<div class="col-md-4 col-sm-4">
-						<div class="services animate-box">
+						<a href='#'><div class="services animate-box">
 							<span><i class="icon-heart"></i></span>
 							<h3>Street Chefs</h3>
 							<p>ул. Ангел Кънчев</p>
-						</div>
+						</div></a>
 					</div>
 					<div class="col-md-4 col-sm-4">
-						<div class="services animate-box">
+						<a href='#'><div class="services animate-box">
 							<span><i class="icon-heart"></i></span>
 							<h3>Flip Flop</h3>
 							<p>ул. Оборище</p>
-						</div>
+						</div></a>
 					</div>
 				</div>
 			</div>
