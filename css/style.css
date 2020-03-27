@@ -1467,4 +1467,10 @@ figure {
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
 
+.logo {
+border-radius: 50%;
+height: 80px;
+width: 80px;
+}
+
 /*# sourceMappingURL=style.css.map */
