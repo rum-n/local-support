@@ -824,8 +824,8 @@ figure {
     margin-bottom: 30px;
   }
 }
-#fh5co-features .feature-left .icon i {
-  color: #d9d9d9 !important;
+/*#fh5co-features .feature-left .icon i {
+  color: #d9d9d9 !important;*/
 }
 #fh5co-features .feature-left .icon {
   float: left;
@@ -867,7 +867,8 @@ figure {
   font-weight: 700;
 }
 #fh5co-features .feature-left p {
-  font-size: 15px;
+  font-size: 16px;
+  font-weight: 500;
 }
 #fh5co-features .feature-left p:last-child {
   margin-bottom: 0;
@@ -1471,6 +1472,6 @@ figure {
 border-radius: 50%;
 height: 80px;
 width: 80px;
-}
+}s
 
 /*# sourceMappingURL=style.css.map */
